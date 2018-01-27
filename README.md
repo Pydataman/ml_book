@@ -1,2 +1,2 @@
-# ml_book
+# book
 book about ML、DL
